@@ -1,6 +1,7 @@
 --[[
     FLSpriteSheet.lua
     Copyright (c) 2014 Erin Lin
+    erinylin@gmail.com
     Licensed under the MIT license.
 ]]--
 

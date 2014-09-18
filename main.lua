@@ -30,7 +30,7 @@ sp.x = 180; sp.y = 240
 sp:play()
 
 
--- sprite for all action
+-- sprite for all actions
 local index = 2
 local data1 = sheetInfo:getSequenceData()
 local sp1 = display.newSprite( sheet , data1 )
