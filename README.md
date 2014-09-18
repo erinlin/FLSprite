@@ -13,8 +13,8 @@ Select those clips in Library and right click the `Generate Sprite Sheet...` in 
 Choose `JSON-Array` for the output data format.
 ![](dev_assets/img02.jpg)
 
-## Converts JSON file to UTF-8 format
-<b>Adobe Flash sprite sheet json file output is a UTF-16 format text file. Remember to encod it to the UTF-8 format. Otherwise, CoronaSDK will get an error of it. If your are using `Sublime Text` editor. You can find the `Save with Encoding` function in dropdown menu `File`.</b>
+## Converts JSON file to UTF-8 encoding.
+<b>Adobe Flash sprite sheet json file output is a UTF-16 encoding text file. Remember to encode it to the UTF-8. Otherwise, CoronaSDK will get an error of it. If your are using `Sublime Text` editor. You can find the `Save with Encoding` function in dropdown menu `File`.</b>
 
 > [UTF-16 to UTF-8 online converter](http://www.fileformat.info/convert/text/utf2utf.htm)
 
