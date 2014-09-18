@@ -1,0 +1,179 @@
+{"frames": [
+
+{
+	"filename": "Character Horn Girl.png",
+	"frame": {"x":0,"y":0,"w":101,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":171},
+	"sourceSize": {"w":101,"h":171}
+}
+,{
+	"filename": "ppl01_act10000",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":52,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10001",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":46,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10002",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":40,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10003",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10004",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":28,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10005",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10006",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10007",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10008",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act10009",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20000",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":49,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20001",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":32,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20002",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":18,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20003",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":6,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20004",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20005",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":0,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20006",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":7,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20007",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":18,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20008",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":32,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}
+,{
+	"filename": "ppl01_act20009",
+	"frame": {"x":103,"y":0,"w":71,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":49,"w":71,"h":145},
+	"sourceSize": {"w":71,"h":145}
+}],
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.2.529",
+	"image": "demo.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}
