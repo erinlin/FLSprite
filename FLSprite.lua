@@ -139,28 +139,12 @@ local function parse( data )
     options.frameIndex = {}
 
     local tempName = ""
-    local templist = {}
     local tempData = {}
-
-    -- MovieClip has wrong sourceWidth and sourceHeight output
-    local rewriteData = function(templist)
-        -- local maxW, maxH = 0, 0
-        -- for k,v in next,(templist) do
-        --     local tempW, tempH = ceil(v.sourceX*0.5+v.sourceWidth), ceil(v.sourceY*0.5+v.sourceHeight)
-        --     maxW = maxW < tempW and tempW or maxW
-        --     maxH = maxH < tempH and tempH or maxH
-        -- end 
-        -- for k,v in next,(templist) do
-        --     v.sourceWidth = maxW
-        --     v.sourceHeight = maxH    
-        -- end 
-    end
 
     for i=1,#data.frames do
         local o = {}
         local frameData = data.frames[i]
         o.x, o.y, o.width, o.height = frameData.frame.x, frameData.frame.y, frameData.frame.w, frameData.frame.h
-
 
         options.frameIndex[frameData.filename] = i
         options.sheetData.frames[i] = o
@@ -181,18 +165,10 @@ local function parse( data )
                 tempData.count = 1
                 tempData.loopCount = 0
                 options.sequenceData[#options.sequenceData+1] = tempData
-                if #templist > 0 then
-                    rewriteData(templist)
-                end
-                templist = { options.sheetData.frames[i] }
             elseif tempData.name==tempName then
                 tempData.count = tempData.count + 1
-                templist[#templist+1] = options.sheetData.frames[i]
             end
         end 
-    end
-    if #templist > 0 then
-        rewriteData(templist)
     end
 
     return options
