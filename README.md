@@ -28,15 +28,15 @@ Choose `JSON-Array` for the output data format.
     local sheetInfo = FLSprite.load("demo.json", true)
     local sheet = sheetInfo:getImageSheet()
 
-### NewImage
+### New Image
     -- newImage
     local girl = display.newImage( sheet, sheetInfo:getFrameIndex("Character Horn Girl.png" ))
     girl.x = 100; girl.y = 100
 
-### NewImageRect
+### New ImageRect
     -- newImageRect
     local frameIndex, frameData = sheetInfo:getFrameData("Character Horn Girl.png")
-    local girl1 = display.newImage( sheet, frameIndex, frameData.width, frameData.height )
+    local girl1 = display.newImageRect( sheet, frameIndex, frameData.width, frameData.height )
     girl1.x = 180; girl1.y = 100
 
 ###Sprite

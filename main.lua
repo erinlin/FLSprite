@@ -16,7 +16,7 @@ girl.x = 100; girl.y = 100
 
 -- newImageRect
 local frameIndex, frameData = sheetInfo:getFrameData("Character Horn Girl.png")
-local girl1 = display.newImage( sheet, frameIndex, frameData.width, frameData.height )
+local girl1 = display.newImageRect( sheet, frameIndex, frameData.width, frameData.height )
 girl1.x = 180; girl1.y = 100
 
 -- sprite
